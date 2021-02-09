@@ -1,0 +1,19 @@
+.my-class { 
+color: red; 
+Background-color: lightblue;
+border: 1px solid blue;
+text-align: center;
+padding: 0.5em;
+}
+
+.my-container {
+color: yellow;
+Background-color: lightpink;
+border: 1px solid blue;
+text-align: left;
+padding: 0.5em;
+}
+
+#my-id {
+background-color: yellow;
+}
